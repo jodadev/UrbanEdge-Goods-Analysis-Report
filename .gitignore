@@ -1,0 +1,8 @@
+**/__pycache__
+
+# files ignored
+*.docx
+*.csv
+*.xlsx
+
+/ignore
